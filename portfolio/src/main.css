@@ -1,0 +1,19 @@
+.sidebar-menu{
+  background: #111;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  width: 20%;
+}
+
+.inline-menu {
+  float: right;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 20px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
